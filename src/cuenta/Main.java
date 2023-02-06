@@ -11,6 +11,7 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
         float asd;
+        double asdfasdf;
 
         operativa_cuenta(0);
     }
