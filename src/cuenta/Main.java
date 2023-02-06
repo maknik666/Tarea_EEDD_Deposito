@@ -10,8 +10,7 @@ public class Main {
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
-        float asd;
-        double asdfasdf;
+             
 
         operativa_cuenta(0);
     }
